@@ -1,3 +1,6 @@
+> [!NOTE]
+> This is a checkout of VWO’s React example, showing that it does not work due to import issues. I have archived it for now.
+
 # Welcome to React Router!
 
 A modern, production-ready template for building full-stack React applications using React Router.
